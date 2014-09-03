@@ -1,0 +1,1 @@
+The solution for Sherlock and Minimax problem from hackerrank.
